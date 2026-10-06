@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Farin Ruwa Waterfalls]]></data>
+  <data name="en_project_author_name"><![CDATA[Developed by  I-360 LIMITED '+234 803 618 2894']]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.i360limited.com/]]></data>
+
+
+
+  <data name="en_pano52_title"><![CDATA[Down Stream]]></data>
+  <data name="en_spotpoint167_tooltip"><![CDATA[WaterFalls]]></data>
+
+
+  <data name="en_pano51_title"><![CDATA[Water Fall]]></data>
+  <data name="en_spotpoint165_tooltip"><![CDATA[Falls View]]></data>
+  <data name="en_spotpoint166_tooltip"><![CDATA[Down Stream]]></data>
+
+
+  <data name="en_pano50_title"><![CDATA[ To Waterfalls]]></data>
+  <data name="en_spotpoint163_tooltip"><![CDATA[Trees Canopy]]></data>
+  <data name="en_spotpoint164_tooltip"><![CDATA[Falls]]></data>
+
+
+  <data name="en_pano49_title"><![CDATA[ Canopy]]></data>
+  <data name="en_spotpoint161_tooltip"><![CDATA[To Falls]]></data>
+  <data name="en_spotpoint162_tooltip"><![CDATA[Steel Bridge]]></data>
+
+
+  <data name="en_pano48_title"><![CDATA[Steel Bridge]]></data>
+  <data name="en_spotpoint159_tooltip"><![CDATA[Steps]]></data>
+  <data name="en_spotpoint160_tooltip"><![CDATA[Relaxation Are]]></data>
+
+
+  <data name="en_pano47_title"><![CDATA[ Steps To Forest]]></data>
+  <data name="en_spotpoint157_tooltip"><![CDATA[In Reception]]></data>
+  <data name="en_spotpoint158_tooltip"><![CDATA[Steel Bridge]]></data>
+
+
+  <data name="en_pano130_title"><![CDATA[In Reception]]></data>
+  <data name="en_spotpoint155_tooltip"><![CDATA[Steps]]></data>
+  <data name="en_spotpoint156_tooltip"><![CDATA[Reception Front]]></data>
+
+
+  <data name="en_pano45_title"><![CDATA[ Front]]></data>
+  <data name="en_spotpoint153_tooltip"><![CDATA[In Reception]]></data>
+  <data name="en_spotpoint154_tooltip"><![CDATA[Falls View]]></data>
+
+
+  <data name="en_pano53_title"><![CDATA[ Fall View]]></data>
+  <data name="en_spotpoint151_tooltip"><![CDATA[Village]]></data>
+  <data name="en_spotpoint152_tooltip"><![CDATA[Reception Front]]></data>
+
+
+  <data name="en_pano54_title"><![CDATA[Village]]></data>
+  <data name="en_spotpoint150_tooltip"><![CDATA[Falls View]]></data>
+
+
+
+
+
+
+  <data name="en_descriptiondescription_title"><![CDATA[]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicautotourOnTip"><![CDATA[Start automatic tour]]></data>
+  <data name="en_controlBar_classicautotourOffTip"><![CDATA[Stop automatic tour]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="en_controlBar_classichideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="en_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[NIGERIAN TOURISM DEVELOPMENT CORPORATION (NTDC) ]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[http://www.i360limited.com/]]></data>
+  <data name="en_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_button4tooltip"><![CDATA[]]></data>
+  <data name="en_button4onclick125653displaywebvideovideoid"><![CDATA[https://youtu.be/zz2CF8NdJys]]></data>
+  <data name="en_buttontooltip"><![CDATA[Locate on Map]]></data>
+  <data name="en_buttononclick121358openurlwebsiteurl"><![CDATA[https://goo.gl/maps/EZLeqCwq1Gcsu1sM6]]></data>
+  <data name="en_button1tooltip"><![CDATA[About Isaac Boro Park]]></data>
+  <data name="en_button2tooltip"><![CDATA[Social Share]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[http://tournigeria.gov.ng/]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Open website]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[Select a floor plan]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_button3tooltip"><![CDATA[]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_galleryfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_galleryclose_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title0"><![CDATA[Monument]]></data>
+  <data name="en_gallerypicture_caption0"><![CDATA[]]></data>
+  <data name="en_gallery2fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery2close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery1fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery1close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery3fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery3close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery4fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery4close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery5fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery5close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery6fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery6close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery7fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery7close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery8fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery8close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery9fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery9close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery10fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery10close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery11fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery11close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_gallery12fullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_gallery12close_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title1"><![CDATA[]]></data>
+  <data name="en_gallerypicture_caption1"><![CDATA[]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="en_pano52_description"><![CDATA[<div>Welcome to Farin Ruwa Water Falls.&nbsp;</div><div><br></div><div>Located about 120 kilometres away from Lafia the state capital, and 30 kilometres away from Wamba the local government headquarters. The nature and beauty of the waterfalls take the breath away. The force of its gushing water is so torrential that it can be mistaken for white smoke, earning it the name “Farin Ruwa” a literal translation of “White water” in Hausa language.It is a truly magnificent work of nature incomparable with other waterfalls in Nigeria. This is because of its high level falls which is about 150 metres high and 50 metres wide. It is located Wamba Local Government Area of Nasarawa State.</div>]]></data>
+
+
+
+  <data name="en_pano51_description"><![CDATA[As you approach the fall (about 100m) the roar of the fall becomes instance and very loud that you just have to shout for any one very close to you before you can be heard you. At about 50m – 70m to the base of the fall you will see and feel the cloudy mist generated by the fall, this in turn creates rain-like droplets as long the water falls, as the water rolls down the rock (about 100m) you will mistake it for a boiling water, the fall is so turbulent that you cant help it than to give kudos to mother nature, little wonder the United Nation named it as on of the world heritage sites. Visit Faring Ruwa (White Water) Falls (The 3rd largest natural Water Falls In the World) and experience nature at its best.]]></data>
+
+
+
+  <data name="en_pano50_description"><![CDATA[As you approach the fall (about 100m) the roar of the fall becomes instance and very loud that you just have to shout for any one very close to you before you can be heard you. At about 50m – 70m to the base of the fall you will see and feel the cloudy mist generated by the fall, this in turn creates rain-like droplets as long the water falls, as the water rolls down the rock (about 100m) you will mistaking it for a boiling water, the fall is so turbulent that you cant help it than to give kudos to mother nature. Visit Faring Ruwa (White Water) Falls (The 3rd largest natural Water Falls In the World) and experience nature at its best.]]></data>
+
+
+
+  <data name="en_pano49_description"><![CDATA[The trees found at this place are so tall (about 80m), casting a thick shadow at the forest floor that one can hardly see the sun, the sun ray cuts through the thick canopy, just like a golden sward and lights the forest floor. Walking through this beautiful flora, you are kept entertained by the chirping of assorted bird and the cry of monkeys.]]></data>
+
+
+
+  <data name="en_pano48_description"><![CDATA[The trees found at this place are so tall (about 80m), casting a thick shadow at the forest floor that one can hardly see the sun, the sun ray cuts through the thick canopy, just like a golden sward and lights the forest floor. Walking through this beautiful flora, you are kept entertained by the chirping of assorted bird and the cry of monkeys.]]></data>
+
+
+
+  <data name="en_pano47_description"><![CDATA[From a distance of 800m one can hear the splashing sound of the fall. The moment you enter the gate leading to the falls, nature takes over as it present you with beautiful flora and fauna not typically expected of the Northern part of Nigeria.]]></data>
+
+
+
+
+
+
+  <data name="en_pano45_description"><![CDATA[From a distance of 800m one can hear the splashing sound of the fall. The moment you enter the gate leading to the falls, nature takes over as it present you with beautiful flora and fauna not typically expected of the Northern part of Nigeria.]]></data>
+
+
+
+  <data name="en_pano53_description"><![CDATA[The Farin Ruwa waterfalls is about 120 kilometres away from Lafia the state capital, and 30 kilometres away from Wamba the local government headquarters. The nature and beauty of the waterfalls take the breath away. It is a truly magnificent work of nature incomparable with other waterfalls in Nigeria. This is because of its high level falls which is about 150 metres high and 50 metres wide.]]></data>
+
+
+
+
+
+</krpano>
